@@ -130,15 +130,15 @@ Build a COMPLETE Fullstack Responsive Admin Dashboard
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App.git
+   git clone https://github.com/Carlosaj18/fullstack-admin.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-3. Start the Server in localhost/3001
+3. Start the Server in localhost/5001
    ```sh
-   nodemon index.js
+   node index.js
    ```
 4. Start the Client in localhost/3000
    ```sh
@@ -153,9 +153,9 @@ Build a COMPLETE Fullstack Responsive Admin Dashboard
 
 - [x] Start the Server
 - [x] Start the Client  
-- [ ] Create your posts 
-- [ ] Add friends 
-- [ ] Like their posts 
+- [ ] Review your data 
+- [ ] Filter your data 
+- [ ] Generate your reports
 
 See the [open issues](https://github.com/Carlosaj18/fullstack-admin/issues) for a full list of proposed features (and known issues).
 
