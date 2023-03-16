@@ -113,6 +113,8 @@ Build a COMPLETE Fullstack Responsive Admin Dashboard
 
 ### Data Model
 
+https://lucid.app/lucidchart/81ff5432-cc50-4c41-a7b8-7258fec1e630/view?page=0_0#
+
 ![image](https://user-images.githubusercontent.com/62365628/225504686-ae57abec-ad89-466d-a167-71707c4f4dad.png)
 
 
