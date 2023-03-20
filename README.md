@@ -155,14 +155,12 @@ npm install
 ```
 MONGO_URL = YOUR_MONGO_API_KEY
 PORT = 5001
-
 ```
 
 ### 7. In the `.env.local` file, create following environment variables:
 
 ```
 REACT_APP_BASE_URL = http://localhost:5001
-
 ```
 
 ### 8. Run the server
