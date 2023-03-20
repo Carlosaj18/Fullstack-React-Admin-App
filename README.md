@@ -40,7 +40,7 @@
     <a href="https://github.com/Carlosaj18/fullstack-admin"><strong>Explore the site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Carlosaj18/fullstack-admin">View Demo</a>
+    <a href="https://user-images.githubusercontent.com/62365628/225510216-5e05f97f-1994-4334-a486-4aad6b01d367.mp4">View Demo</a>
     ·
     <a href="https://github.com/Carlosaj18/fullstack-admin/issues">Report Bug</a>
     ·
@@ -74,27 +74,23 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project!
 
 
-
+This is a Dashboard Admin App that allows you to interact with your backend and make calls in MongoDB. 
 
 https://user-images.githubusercontent.com/62365628/225510216-5e05f97f-1994-4334-a486-4aad6b01d367.mp4
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-This is a Dashboard Admin App that allows you to interact with your backend and make calls in MongoDB. 
+## Usage 
 
 Here's why:
 * You can visualize your client needs.
 * Your review your sales. 
 * You can manage your admin settings. 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+* You can display you information with different graphics. 
 
 ### Built With
 
@@ -112,7 +108,6 @@ Build a COMPLETE Fullstack Responsive Admin Dashboard
 </p>
   
   
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -122,35 +117,73 @@ https://lucid.app/lucidchart/81ff5432-cc50-4c41-a7b8-7258fec1e630/view?page=0_0#
 
 ![image](https://user-images.githubusercontent.com/62365628/225504686-ae57abec-ad89-466d-a167-71707c4f4dad.png)
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 ### Prerequisites
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+`**Note**`: This app requires API key from <a href="https://www.mongodb.com/" >MongoDB Account</a>
 
-### Installation
+### 1. Download Node.js and `npm` (follow instructions [here](https://nodejs.org/en/))
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Carlosaj18/fullstack-admin.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Start the Server in localhost/5001
-   ```sh
-   node index.js
-   ```
-4. Start the Client in localhost/3000
-   ```sh
-   npm start
-   ```
+### 2. Git clone and cd into the repo folder:
+
+```bash
+https://github.com/Carlosaj18/Fullstack-React-Admin-App.git && cd admin-clone
+```
+
+### 3. Install all dependencies
+
+```bash
+npm install
+```
+
+### 4. In root directory of the server, create a `.env` file
+
+```bash
+.env
+```
+
+### 5. In root directory of the client, create a `.env.local` file
+
+```bash
+.env.local
+```
+
+### 6. In the `.env` file, create following environment variables:
+
+```
+MONGO_URL = YOUR_MONGO_API_KEY
+PORT = 5001
+
+```
+
+### 7. In the `.env.local` file, create following environment variables:
+
+```
+REACT_APP_BASE_URL = http://localhost:5001
+
+```
+
+### 8. Run the server
+
+```bash
+npm start
+#for deployed version
+
+npm run dev
+#for deployed version
+```
+
+### 9. Run the client
+
+```bash
+npm start
+#for deployed version
+
+```
+
+### 10. Access the project in your browser at [`localhost:3000/`](localhost:3000)
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,17 +191,15 @@ https://lucid.app/lucidchart/81ff5432-cc50-4c41-a7b8-7258fec1e630/view?page=0_0#
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Start the Server
-- [x] Start the Client  
-- [ ] Review your data 
-- [ ] Filter your data 
-- [ ] Generate your reports
+- [x] Installation
+- [x] Tech Stack
+- [ ] Live Site
+- [ ] Resources
+- [ ] Let's Connect
 
 See the [open issues](https://github.com/Carlosaj18/fullstack-admin/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -186,12 +217,25 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Live Site 
+
+<p id="live-site"><p>
+
+<a href="https://chat-ai-frontend.onrender.com">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+
+• **[Admin Dashboard](https://admin-frontend-1wzy.onrender.com/)** is a responsive web app can be viewed on any device.
+
+<br>
+
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/fullstack-admin]
+<a href=#lets-connect>![Let's Connect!](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314257/Readme%20Headers/inter-lets-connect_bv3kcd.png)</a>
+
+<p><a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=90 alt="Twitter badge"></a> <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=90 alt="Linkedin badge"></a> <a href="mailto:cjaramilloportilla@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=90 alt="Gmail badge"></a> <a href="https://github.com/Carlosaj18"><img src="https://img.shields.io/badge/github-%23ff8e44.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=90 alt="Github badge"></a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
