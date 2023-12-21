@@ -32,7 +32,7 @@
     <img src="https://user-images.githubusercontent.com/62365628/214876004-be858914-bb6b-4b6e-8c40-b49112ff0d30.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Admin Dashboard </h3>
+  <h3 align="center">MERN Stack Admin Dashboard </h3>
 
   <p align="center">
     Build and Deploy a MERN Stack Admin Dashboard. For frontend, we will be using Material UI, Material UI Data Grid, Nivo Charts, Redux Toolkit and Redux Toolkit Query. For backend, we will be using Node JS, Express Js, Mongoose, and MongoDB. We will also go through how to Data Model using Entity Relationship Diagrams as well as making aggregate calls in MongoDB.
