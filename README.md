@@ -49,54 +49,23 @@
 </div>
 
 <br />
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#data-model">Data Model</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project!
+## :star2: About the Project
 
+<div align="justify">Explore a versatile Admin Dashboard App designed to seamlessly manage and interact with your backend system. Empowered with MongoDB integration, this platform enables efficient communication and interaction with your database, ensuring streamlined data management and robust backend operations. Dive into a comprehensive dashboard experience tailored to enhance your administrative tasks and MongoDB functionalities. 
+ <br><br>
+</div>
 
-This is a Dashboard Admin App that allows you to interact with your backend and make calls in MongoDB. 
+## Project Technological Stack:
 
-https://user-images.githubusercontent.com/62365628/225510216-5e05f97f-1994-4334-a486-4aad6b01d367.mp4
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Usage 
-
-Here's why:
-* You can visualize your client needs.
-* Your review your sales. 
-* You can manage your admin settings. 
-* You can display you information with different graphics. 
-
-### Built With
-
-Build a COMPLETE Fullstack Responsive Admin Dashboard
+* Backend: MongoDB for efficient and scalable data management.
+* Frontend: React for dynamic and interactive user interfaces.
+* State Management: Redux for predictable state handling.
+* Design: Figma for seamless UI/UX design creation.
 
 <p align="center">
+   <br><br>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="Express" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="40" style="vertical-align:top; margin:4px"></a>
@@ -107,15 +76,16 @@ Build a COMPLETE Fullstack Responsive Admin Dashboard
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
   
-  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Features:
 
-
-### Data Model
-
-https://lucid.app/lucidchart/81ff5432-cc50-4c41-a7b8-7258fec1e630/view?page=0_0#
-
-![image](https://user-images.githubusercontent.com/62365628/225504686-ae57abec-ad89-466d-a167-71707c4f4dad.png)
+*      Interactive Data Display: Material UI Data Grid for user-friendly tables.
+*      Visual Data Representation: Nivo Charts for effective data visualization.
+*      State Management: Redux Toolkit for predictable state handling.
+*      Backend Setup: Node.js and Express.js for server-side operations.
+*      Database Handling: Mongoose for MongoDB interaction.
+*      Data Aggregation: MongoDB aggregate calls for efficient querying.
+*      Design and UI: Material UI for consistent frontend design.
+*      ERD Implementation: Entity Relationship Diagrams for data modeling.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -185,35 +155,18 @@ npm start
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Demo & Showcasing:
 
-<!-- ROADMAP -->
-## Roadmap
+ ### :camera: Screenshots
 
-- [x] Installation
-- [x] Tech Stack
-- [ ] Live Site
-- [ ] Resources
-- [ ] Let's Connect
+ https://user-images.githubusercontent.com/62365628/225510216-5e05f97f-1994-4334-a486-4aad6b01d367.mp4
+ 
+### Data Model
 
-See the [open issues](https://github.com/Carlosaj18/fullstack-admin/issues) for a full list of proposed features (and known issues).
+https://lucid.app/lucidchart/81ff5432-cc50-4c41-a7b8-7258fec1e630/view?page=0_0#
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![image](https://user-images.githubusercontent.com/62365628/225504686-ae57abec-ad89-466d-a167-71707c4f4dad.png)
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Live Site 
 
